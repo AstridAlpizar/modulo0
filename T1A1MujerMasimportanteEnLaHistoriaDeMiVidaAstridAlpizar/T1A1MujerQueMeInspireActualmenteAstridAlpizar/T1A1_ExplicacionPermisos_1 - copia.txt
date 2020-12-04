@@ -1,0 +1,19 @@
+PERMISOS
+
+-Permisos de archivos
+Al momento de modificar los permisos dependiendo cual se elegia, cumplian con una función: 
+por ejemplo:
+
+Modificar: permite escribir, borrar, ejecutar
+Lectura y Ejecución: solo permite abrir y leer
+Lectura: permite solo leer
+Escritura: permite solo escribir
+
+
+-Permisos de las carpetas
+
+Modificar
+Lectura y Ejecución
+Lectura
+Escritura
+Restringir el acceso a los archivos de la carpeta
